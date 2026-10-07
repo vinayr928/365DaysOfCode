@@ -35,3 +35,15 @@
 - Functions with conditions
 - Type declarations
 - ERP-style fee calculations
+
+### Day 5 — Loops
+- `for` loop
+- `while` loop
+- `do...while` loop
+- `foreach`
+- Loop with conditions
+- Counters
+- Counting Pass/Fail students
+- Calculating total marks
+- Calculating average marks
+- Functions with loops
