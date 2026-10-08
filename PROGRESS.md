@@ -47,3 +47,26 @@
 - Calculating total marks
 - Calculating average marks
 - Functions with loops
+
+## Day 06 - Nested Arrays & Student Records
+
+### Topics Learned
+- Nested associative arrays
+- Working with multiple student records
+- `foreach` with `$index => $student`
+- Filtering records using conditions
+- Logical operator `&&`
+- Modifying nested array values
+- Using `$students[$index]` to update the original array
+- Displaying updated records
+
+### Practical Task
+Created a student-record system that:
+- Stores multiple student records
+- Identifies students who passed
+- Changes students scoring below 40 to `Inactive`
+- Displays the updated student records
+- Displays active students who passed
+
+### Status
+✅ Day 06 Completed
